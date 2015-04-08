@@ -1,2 +1,2 @@
 # cheminformist
-articles of cheminformist
+Articles of cheminformist
